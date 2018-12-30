@@ -17,16 +17,16 @@ i have used Geany IDE version 1.3.1
 ## Demonstrations (Valid set Sample inputs and output)
 
 * FCFS (First come first serve)
-[![FCFS O/P](https://ibb.co/Kj99DM2)]
+[![FCFS O/P](https://ibb.co/Kj99DM2)]()
 
 * SJF (Shortest Job First)
-[![SJF O/P](https://ibb.co/k2rfpzM)]
+[![SJF O/P](https://ibb.co/k2rfpzM)]()
 
 * SRTF (Shortest remaining time first)
-[![SRTF O/P](https://ibb.co/pfzT9rH)]
+[![SRTF O/P](https://ibb.co/pfzT9rH)]()
 
 * RR (Round Robbin)
-[![RR O/P](https://ibb.co/HC304QK)]
+[![RR O/P](https://ibb.co/HC304QK)]()
 
 ## Built With
 
