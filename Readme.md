@@ -23,17 +23,17 @@ i have used Geany IDE version 1.3.1
 
 * SJF (Shortest Job First)
 <p align="center">
-  <img src="https://i.ibb.co/v4rGbfD/SJF-PROGRAM-OUTPUT.jpg" width="350" height="300" title="SJF O/P">
+  <img src="https://i.ibb.co/v4rGbfD/SJF-PROGRAM-OUTPUT.jpg" width="550" height="300" title="SJF O/P">
  </p>
 
 * SRTF (Shortest remaining time first)
 <p align="center">
-  <img src="https://i.ibb.co/2vtrfYz/SRTF-PROGRAM-OUTPUT.jpg" width="350" height="300" title="SRTF O/P">
+  <img src="https://i.ibb.co/2vtrfYz/SRTF-PROGRAM-OUTPUT.jpg" width="550" height="300" title="SRTF O/P">
  </p>
 
 * RR (Round Robbin)
 <p align="center">
-  <img src="https://i.ibb.co/PM0Rj8r/RR-PROGRAM-OUTPUT.jpg" width="350" height="300" title="RR O/P">
+  <img src="https://i.ibb.co/PM0Rj8r/RR-PROGRAM-OUTPUT.jpg" width="550" height="300" title="RR O/P">
  </p>
 
 
