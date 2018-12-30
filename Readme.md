@@ -17,7 +17,7 @@ i have used Geany IDE version 1.3.1
 ## Demonstrations (Valid set Sample inputs and output)
 
 * FCFS (First come first serve)
-[![FCFS O/P](https://ibb.co/Kj99DM2)](https://ibb.co/Kj99DM2)
+[![Basics of VB](https://lh3.googleusercontent.com/02n6vTQHE7sDmV3H3dhAiBmBbWc1PoddjL-ERsB5avwk9ExGiuGBNmOSldmNdj6g8evwRxk6D5_Xcw6Lc5kJ=w1280-h720-n-k-rw)](https://drive.google.com/open?id=1R2yXXrKPfsx81yPsBzd_PrpRRCp9dnJB)
 
 * SJF (Shortest Job First)
 [![SJF O/P](https://ibb.co/k2rfpzM)](https://ibb.co/Kj99DM2)
