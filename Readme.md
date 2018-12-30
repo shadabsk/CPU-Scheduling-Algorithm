@@ -26,6 +26,9 @@ i have used Geany IDE version 1.3.1
 ![SRTF O/P](https://i.ibb.co/2vtrfYz/SRTF-PROGRAM-OUTPUT.jpg)
 
 * RR (Round Robbin)
+<p align="center">
+  <img src="https://i.ibb.co/PM0Rj8r/RR-PROGRAM-OUTPUT.jpg" width="350" title="hover text">
+ </p>
 ![RR O/P](https://i.ibb.co/PM0Rj8r/RR-PROGRAM-OUTPUT.jpg)
 
 ## Built With
