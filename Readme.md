@@ -17,16 +17,16 @@ i have used Geany IDE version 1.3.1
 ## Demonstrations (Valid set Sample inputs and output)
 
 * FCFS (First come first serve)
-[![Basics of VB](https://lh3.googleusercontent.com/02n6vTQHE7sDmV3H3dhAiBmBbWc1PoddjL-ERsB5avwk9ExGiuGBNmOSldmNdj6g8evwRxk6D5_Xcw6Lc5kJ=w1280-h720-n-k-rw)](https://drive.google.com/open?id=1R2yXXrKPfsx81yPsBzd_PrpRRCp9dnJB)
+![FCFS O/P](https://i.ibb.co/4Zjj268/FCFS-PROGRAM-OUTPUT.jpg)
 
 * SJF (Shortest Job First)
-[![SJF O/P](https://ibb.co/k2rfpzM)](https://ibb.co/Kj99DM2)
+![SJF O/P](https://i.ibb.co/4Zjj268/FCFS-PROGRAM-OUTPUT.jpg)
 
 * SRTF (Shortest remaining time first)
-[![SRTF O/P](https://ibb.co/pfzT9rH)](https://ibb.co/Kj99DM2)
+![SRTF O/P](https://i.ibb.co/4Zjj268/FCFS-PROGRAM-OUTPUT.jpg)
 
 * RR (Round Robbin)
-[![RR O/P](https://ibb.co/HC304QK)](https://ibb.co/Kj99DM2)
+![RR O/P](https://i.ibb.co/4Zjj268/FCFS-PROGRAM-OUTPUT.jpg)
 
 ## Built With
 
